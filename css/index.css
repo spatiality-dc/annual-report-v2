@@ -138,6 +138,10 @@ img {
   max-width: 95%;
 }
 
+.menu h4 {
+  line-height: 0.8em;
+}
+
 /* Segments */
 
 section {

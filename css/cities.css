@@ -141,16 +141,8 @@ img {
   max-width: 95%;
 }
 
-.row-spacer {
-  height: 2em;
-}
-
-.sm-row-spacer {
-  height: 1em;
-}
-
-.xs-row-spacer {
-  height: 0.5em;
+.menu h4 {
+  line-height: 0.8em;
 }
 
 /* Class Things */

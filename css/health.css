@@ -141,16 +141,8 @@ img {
   max-width: 95%;
 }
 
-.row-spacer {
-  height: 2em;
-}
-
-.sm-row-spacer {
-  height: 1em;
-}
-
-.xs-row-spacer {
-  height: 0.5em;
+.menu h4 {
+  line-height: 0.8em;
 }
 
 /* Class Things */
@@ -403,7 +395,6 @@ img {
   position: relative;
   top: 1px;
 }
-
 
 .download-button {
   position: absolute;
@@ -700,7 +691,7 @@ li:first-of-type {
   }
 
   .stats {
-    Roboto Black
+    /* Roboto Black */
     font-size: 5rem;
     line-height: 1em;
     text-align: center;
