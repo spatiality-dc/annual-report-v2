@@ -404,7 +404,6 @@ img {
   top: 1px;
 }
 
-
 .download-button {
   position: absolute;
   top: 0;
@@ -700,7 +699,7 @@ li:first-of-type {
   }
 
   .stats {
-    Roboto Black
+    /* Roboto Black */
     font-size: 5rem;
     line-height: 1em;
     text-align: center;
